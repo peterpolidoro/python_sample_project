@@ -4,10 +4,12 @@ python_sample_project
 This Python package...
 
 Authors:
-Peter Polidoro <polidorop@janelia.hhmi.org>
+
+    Peter Polidoro <polidorop@janelia.hhmi.org>
 
 License:
-BSD
+
+    BSD
 
 ##Example Usage
 
