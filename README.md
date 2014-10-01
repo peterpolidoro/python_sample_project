@@ -34,7 +34,7 @@ pip install https://github.com/JaneliaSciComp/python_arduino_device/tarball/mast
 
 ###Windows
 
-Download Python 2.7.8 Windows Installer from:
+Download Python 2.7.X Windows Installer from:
 
     https://www.python.org/download
 

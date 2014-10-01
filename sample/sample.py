@@ -1,4 +1,5 @@
 from __future__ import print_function, division
+import os
 
 try:
     from pkg_resources import get_distribution, DistributionNotFound
