@@ -36,7 +36,7 @@ pip install https://github.com/JaneliaSciComp/python_arduino_device/tarball/mast
 
 Download Python 2.7.X Windows Installer from:
 
-    https://www.python.org/download
+[https://www.python.org/download](https://www.python.org/download)
 
 Add to path:
 
@@ -44,7 +44,7 @@ Add to path:
 
 Download get-pip.py from:
 
-    https://bootstrap.pypa.io/get-pip.py
+[https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 
 Run:
 
