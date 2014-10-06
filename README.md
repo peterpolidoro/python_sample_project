@@ -34,33 +34,12 @@ pip install https://github.com/JaneliaSciComp/python_arduino_device/tarball/mast
 
 ###Windows
 
-Download Python 2.7.X Windows Installer from:
-
-[https://www.python.org/download](https://www.python.org/download)
-
-Add to path:
-
-    C:\Python27\
-
-Download get-pip.py from:
-
-[https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+Setup Python for Windows:
+[Setup Python for Windows](./PYTHON_SETUP_WINDOWS.md)
 
 Run:
 
 ```shell
-python get-pip.py
-```
-
-Add to path:
-
-    C:\Python27\Scripts\
-
-Run:
-
-```shell
-pip install virtualenv
-mkdir C:\virtualenvs
 virtualenv C:\virtualenvs\arduino_device
 C:\virtualenvs\arduino_device\Scripts\activate
 pip install https://github.com/JaneliaSciComp/python_arduino_device/zipball/master
