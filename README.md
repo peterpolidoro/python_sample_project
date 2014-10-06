@@ -40,8 +40,6 @@ pip install https://github.com/JaneliaSciComp/python_arduino_device/tarball/mast
 
 [Setup Python for Windows](./PYTHON_SETUP_WINDOWS.md)
 
-Run:
-
 ```shell
 virtualenv C:\virtualenvs\arduino_device
 C:\virtualenvs\arduino_device\Scripts\activate

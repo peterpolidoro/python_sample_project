@@ -1,7 +1,8 @@
 Python Setup Linux
 ==================
 
-The latest versions of Ubuntu and Fedora come with Python 2.7 out of the box.
+The latest versions of many Linux distributions come with Python 2.7
+out of the box.
 
 Install pip, virtualenv, and ipython:
 
