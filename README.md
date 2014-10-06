@@ -25,6 +25,10 @@ dev.get_arduino_commands()
 
 ###Linux and Mac OS X
 
+[Setup Python for Linux](./PYTHON_SETUP_LINUX.md)
+
+[Setup Python for Mac OS X](./PYTHON_SETUP_MAC_OS_X.md)
+
 ```shell
 mkdir -p ~/virtualenvs/arduino_device
 virtualenv ~/virtualenvs/arduino_device
@@ -34,7 +38,6 @@ pip install https://github.com/JaneliaSciComp/python_arduino_device/tarball/mast
 
 ###Windows
 
-Setup Python for Windows:
 [Setup Python for Windows](./PYTHON_SETUP_WINDOWS.md)
 
 Run:

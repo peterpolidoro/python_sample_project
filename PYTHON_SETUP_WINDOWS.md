@@ -28,4 +28,5 @@ Run:
 ```shell
 pip install virtualenv
 mkdir C:\virtualenvs
+pip install ipython
 ```
